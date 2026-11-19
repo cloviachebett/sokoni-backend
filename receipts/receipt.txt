@@ -1,0 +1,15 @@
+SOKONI CHANGE-MAKER - RECEIPT
+--------------------------------
+Item: 79.00
+Item: 45.00
+Item: 21.00
+--------------------------------
+Total bill: 145.00
+Amount paid: 1000.00
+Change due: 855.00
+Change breakdown:
+  500 x 1
+  200 x 1
+  100 x 1
+  50 x 1
+  5 x 1
